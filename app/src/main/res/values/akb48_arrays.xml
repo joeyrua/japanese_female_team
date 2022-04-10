@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="team">
+        <item> Team A </item>
+        <item> Team K </item>
+        <item> Team B </item>
+        <item> Team 4 </item>
+        <item> Team 8  </item>
+    </string-array>
+
+    <string-array name="TeamA_students">
+        <item> 入山 杏奈 </item>
+        <item> 岡部 麟 </item>
+        <item> 奥本 陽菜 </item>
+        <item> 小栗 有以  </item>
+        <item> 加藤 玲奈 </item>
+        <item> 佐藤 美波 </item>
+        <item> 下尾 みう </item>
+        <item> 篠崎 彩奈 </item>
+        <item> 鈴木 くるみ </item>
+        <item> 田口 愛佳 </item>
+        <item> 千葉 恵里 </item>
+        <item> 西川 怜 </item>
+        <item> 古川 夏凪 </item>
+        <item> 本田 そら </item>
+        <item> 前田 彩佳 </item>
+        <item> 道枝 咲 </item>
+        <item> 宮崎 美穂 </item>
+        <item> 向井地 美音 </item>
+        <item> 山根 涼羽 </item>
+        <item> 横山 由依 </item>
+        <item> 吉田 華恋 </item>
+    </string-array>
+
+    <array name="TeamA_students_picture">
+        <item> @drawable/anna_lriyama </item>
+        <item> @drawable/rin_okabe </item>
+        <item> @drawable/hinano_okumoto </item>
+        <item> @drawable/yui_oguri </item>
+        <item> @drawable/rena_kato </item>
+        <item> @drawable/minami_sato </item>
+        <item> @drawable/miu_shitao </item>
+        <item> @drawable/ayana_shinozaki </item>
+        <item> @drawable/kurumi_suzuki </item>
+        <item> @drawable/manaka_taguchi </item>
+        <item> @drawable/erii_chiba </item>
+        <item> @drawable/rei_nishikawa </item>
+        <item> @drawable/nazuna_furukawa </item>
+        <item> @drawable/sora_honda </item>
+        <item> @drawable/ayaka_maeda </item>
+        <item> @drawable/saki_michieda </item>
+        <item> @drawable/miho_miyazaki </item>
+        <item> @drawable/mino_mukaichi </item>
+        <item> @drawable/suzuha_yamane </item>
+        <item> @drawable/yui_yokoyama </item>
+        <item> @drawable/karen_yoshida </item>
+    </array>
+
+
+</resources>

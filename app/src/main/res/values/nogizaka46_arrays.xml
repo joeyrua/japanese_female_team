@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="generation">
+        <item> 一期生 </item>
+        <item> 二期生 </item>
+        <item> 三期生 </item>
+        <item> 四期生 </item>
+    </string-array>
+
+    <array name="first_generation_students">
+        <item> @drawable/akimotomanatsu </item>
+        <item> @drawable/higuchihina </item>
+        <item> @drawable/hoshinominami </item>
+        <item> @drawable/ikutaerika </item>
+        <item> @drawable/matsumurasayuri </item>
+        <item> @drawable/saitouasuka </item>
+        <item> @drawable/takayamakazumi </item>
+        <item> @drawable/wadamaaya </item>
+    </array>
+
+    <string-array name="first_name">
+        <item> 秋元 真夏 </item>
+        <item> 樋口 日奈 </item>
+        <item> 星野 みなみ </item>
+        <item> 生田 絵梨花 </item>
+        <item> 松村 沙友理 </item>
+        <item> 齋藤飛鳥 </item>
+        <item> 高山 一実 </item>
+        <item> 和田 まあや </item>
+    </string-array>
+
+    <array name="second_generation_students">
+        <item> @drawable/horimiona </item>
+        <item> @drawable/itoujunna </item>
+        <item> @drawable/kitanohinako </item>
+        <item> @drawable/shinuchimai </item>
+        <item> @drawable/suzukiayane </item>
+        <item> @drawable/teradaranze </item>
+        <item> @drawable/watanabemiria </item>
+        <item> @drawable/yamazakirena </item>
+    </array>
+
+    <string-array name="second_name">
+        <item> 堀 未央奈 </item>
+        <item> 伊藤 純奈 </item>
+        <item> 北野 日奈子 </item>
+        <item> 新内 眞衣 </item>
+        <item> 鈴木 絢音 </item>
+        <item> 寺田 蘭世 </item>
+        <item> 渡辺 みり愛 </item>
+        <item> 山崎 怜奈 </item>
+    </string-array>
+
+    <array name="third_generation_students">
+        <item> @drawable/iwamotorenka </item>
+        <item> @drawable/itouriria </item>
+        <item> @drawable/mukaihazuki </item>
+        <item> @drawable/nakamurareno </item>
+        <item> @drawable/oozonomomoko </item>
+        <item> @drawable/sakaguchitamami </item>
+        <item> @drawable/satoukaede </item>
+        <item> @drawable/umezawaminami </item>
+        <item> @drawable/yamashitamizuki </item>
+        <item> @drawable/yodayuuki </item>
+        <item> @drawable/kuboshiori </item>
+        <item> @drawable/yoshidaayanochristie </item>
+    </array>
+
+    <string-array name="third_name">
+        <item> 岩本 蓮加 </item>
+        <item> 伊藤 理々杏 </item>
+        <item> 向井 葉月 </item>
+        <item> 中村 麗乃 </item>
+        <item> 大園 桃子 </item>
+        <item> 阪口 珠美 </item>
+        <item> 佐藤 楓 </item>
+        <item> 梅澤 美波 </item>
+        <item> 山下 美月 </item>
+        <item> 与田 祐希 </item>
+        <item> 久保 史緒里 </item>
+        <item> 吉田 綾乃クリスティー </item>
+    </string-array>
+
+    <array name="forth_generation_students">
+        <item> @drawable/endousakura </item>
+        <item> @drawable/hayashiruna </item>
+        <item> @drawable/kakehashisayaka </item>
+        <item> @drawable/kakiharuka </item>
+        <item> @drawable/kanagawasaya </item>
+        <item> @drawable/kitagawayuri </item>
+        <item> @drawable/kuromiharuka </item>
+        <item> @drawable/matsuomiyu </item>
+        <item> @drawable/satourika </item>
+        <item> @drawable/shibatayuna </item>
+        <item> @drawable/seimiyarei </item>
+        <item> @drawable/tamuramayu </item>
+        <item> @drawable/tsutsuiayame </item>
+        <item> @drawable/hayakawaseira </item>
+        <item> @drawable/yakubomio </item>
+        <item> @drawable/yumikinao </item>
+    </array>
+    <string-array name="forth_name">
+        <item> 遠藤 さくら </item>
+        <item> 林 瑠奈 </item>
+        <item> 掛橋 沙耶香 </item>
+        <item> 賀喜 遥香 </item>
+        <item> 金川 紗耶 </item>
+        <item> 北川 悠理 </item>
+        <item> 黒見 明香 </item>
+        <item> 松尾 美佑 </item>
+        <item> 佐藤 璃果 </item>
+        <item> 柴田 柚菜 </item>
+        <item> 清宮 レイ </item>
+        <item> 田村 真佑 </item>
+        <item> 筒井 あやめ </item>
+        <item> 早川 聖来 </item>
+        <item> 矢久保 美緒 </item>
+        <item> 弓木 奈於 </item>
+    </string-array>
+
+    <array name="all_generation_students">
+        //一期生圖片
+        <item> @drawable/akimotomanatsu </item>
+        <item> @drawable/higuchihina </item>
+        <item> @drawable/hoshinominami </item>
+        <item> @drawable/ikutaerika </item>
+        <item> @drawable/matsumurasayuri </item>
+        <item> @drawable/saitouasuka </item>
+        <item> @drawable/takayamakazumi </item>
+        <item> @drawable/wadamaaya </item>
+        //二期生圖片
+        <item> @drawable/horimiona </item>
+        <item> @drawable/itoujunna </item>
+        <item> @drawable/kitanohinako </item>
+        <item> @drawable/shinuchimai </item>
+        <item> @drawable/suzukiayane </item>
+        <item> @drawable/teradaranze </item>
+        <item> @drawable/watanabemiria </item>
+        <item> @drawable/yamazakirena </item>
+        //三期生圖片
+        <item> @drawable/iwamotorenka </item>
+        <item> @drawable/itouriria </item>
+        <item> @drawable/mukaihazuki </item>
+        <item> @drawable/nakamurareno </item>
+        <item> @drawable/oozonomomoko </item>
+        <item> @drawable/sakaguchitamami </item>
+        <item> @drawable/satoukaede </item>
+        <item> @drawable/umezawaminami </item>
+        <item> @drawable/yamashitamizuki </item>
+        <item> @drawable/yodayuuki </item>
+        <item> @drawable/kuboshiori </item>
+        <item> @drawable/yoshidaayanochristie </item>
+        //四期生圖片
+        <item> @drawable/endousakura </item>
+        <item> @drawable/hayashiruna </item>
+        <item> @drawable/kakehashisayaka </item>
+        <item> @drawable/kakiharuka </item>
+        <item> @drawable/kanagawasaya </item>
+        <item> @drawable/kitagawayuri </item>
+        <item> @drawable/kuromiharuka </item>
+        <item> @drawable/matsuomiyu </item>
+        <item> @drawable/satourika </item>
+        <item> @drawable/shibatayuna </item>
+        <item> @drawable/seimiyarei </item>
+        <item> @drawable/tamuramayu </item>
+        <item> @drawable/tsutsuiayame </item>
+        <item> @drawable/hayakawaseira </item>
+        <item> @drawable/yakubomio </item>
+        <item> @drawable/yumikinao </item>
+    </array>
+
+    <string-array name="all_name">
+        //一期生姓名
+        <item> 秋元 真夏 </item>
+        <item> 樋口 日奈 </item>
+        <item> 星野 みなみ </item>
+        <item> 生田 絵梨花 </item>
+        <item> 松村 沙友理 </item>
+        <item> 齋藤飛鳥 </item>
+        <item> 高山 一実 </item>
+        <item> 和田 まあや </item>
+        //二期生姓名
+        <item> 堀 未央奈 </item>
+        <item> 伊藤 純奈 </item>
+        <item> 北野 日奈子 </item>
+        <item> 新内 眞衣 </item>
+        <item> 鈴木 絢音 </item>
+        <item> 寺田 蘭世 </item>
+        <item> 渡辺 みり愛 </item>
+        <item> 山崎 怜奈 </item>
+        //三期生姓名
+        <item> 岩本 蓮加 </item>
+        <item> 伊藤 理々杏 </item>
+        <item> 向井 葉月 </item>
+        <item> 中村 麗乃 </item>
+        <item> 大園 桃子 </item>
+        <item> 阪口 珠美 </item>
+        <item> 佐藤 楓 </item>
+        <item> 梅澤 美波 </item>
+        <item> 山下 美月 </item>
+        <item> 与田 祐希 </item>
+        <item> 久保 史緒里 </item>
+        <item> 吉田 綾乃クリスティー </item>
+        //四期生姓名
+        <item> 遠藤 さくら </item>
+        <item> 林 瑠奈 </item>
+        <item> 掛橋 沙耶香 </item>
+        <item> 賀喜 遥香 </item>
+        <item> 金川 紗耶 </item>
+        <item> 北川 悠理 </item>
+        <item> 黒見 明香 </item>
+        <item> 松尾 美佑 </item>
+        <item> 佐藤 璃果 </item>
+        <item> 柴田 柚菜 </item>
+        <item> 清宮 レイ </item>
+        <item> 田村 真佑 </item>
+        <item> 筒井 あやめ </item>
+        <item> 早川 聖来 </item>
+        <item> 矢久保 美緒 </item>
+        <item> 弓木 奈於 </item>
+    </string-array>
+
+</resources>

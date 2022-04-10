@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1038075721870",
+    "firebase_url": "https://akb48-member.firebaseio.com",
+    "project_id": "akb48-member",
+    "storage_bucket": "akb48-member.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038075721870:android:6efc7cb5ac5b7c74f2b1df",
+        "android_client_info": {
+          "package_name": "com.example.japanese_idol_female_team"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038075721870-3li9ca18gql58ff915g4n21tsa60d20m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1I0_zej5722slKJrDl_1NYYwH5sMFkco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038075721870-3li9ca18gql58ff915g4n21tsa60d20m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
